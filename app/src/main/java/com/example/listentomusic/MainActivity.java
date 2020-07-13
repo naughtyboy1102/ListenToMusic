@@ -4,12 +4,10 @@ import androidx.appcompat.app.AppCompatActivity;
 
 import android.os.Bundle;
 import android.widget.Button;
+import android.widget.ImageView;
 import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
-
-    TextView tvTest;
-    Button btnTest;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
