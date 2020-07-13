@@ -9,10 +9,6 @@ import android.widget.TextView;
 
 public class MainActivity extends AppCompatActivity {
 
-    TextView tvTest;
-    Button btnTest;
-    ImageView imgTest;
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
